@@ -16,6 +16,13 @@ This is a Ecommerce site with clothing having both client and admin side
 # Deployed Site Link
 ### https://dfabrica.netlify.app/
 
+# Tech Stack
+- HTML
+- CSS
+- Advanced JavaScript
+- JWT
+- RESTful Api
+
 # API Data base in `db.json file`
 Hard collected from the cloning example site https://www.bewakoof.com/
 # Deployed API Link for DFabrica : 
